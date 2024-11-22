@@ -1,0 +1,317 @@
+                            @media (max-width: 768px) {
+                                header {
+                                    height: auto;
+                                    flex-direction: column;
+                                    align-items: center;
+                                }
+                                header img {
+                                    width: 50px;
+                                    height: 50px;
+                                }
+                                .noithat1 img,
+                                .noithat2 img,
+                                .noithat4 video {
+                                    width: 100%;
+                                    height: auto;
+                                }
+                                h1 {
+                                    color: red;
+                                    font-size: 30px;
+                                }
+                                .noithat1 h2,
+                                .noithat2 h2,
+                                .noidung4 h2 {
+                                    font-size: 20px;
+                                    margin: 20px;
+                                }
+                                .footer-container {
+                                    flex-direction: column;
+                                    align-items: center;
+                                }
+                            }
+                            
+                            * {
+                                margin: 0px 0px 0px 0px;
+                            }
+                            
+                            body {
+                                font-family: Arial;
+                            }
+                            
+                            header {
+                                background-color: #411902;
+                                height: 90px;
+                                display: flex;
+                                position: fixed;
+                                top: 0;
+                                left: 0;
+                                width: 100%;
+                                z-index: 1000;
+                            }
+                            
+                            header a p {
+                                padding: 35px 10px;
+                                color: white;
+                                direction: none;
+                            }
+                            
+                            header a p:hover {
+                                background-color: red;
+                                border-radius: 4px;
+                            }
+                            
+                            header div {
+                                margin-left: 200px;
+                                display: flex;
+                            }
+                            
+                            header img {
+                                padding: 10px 20px;
+                                height: 70px;
+                                width: 70px;
+                                border-radius: 7px;
+                            }
+                            
+                            main .modau {
+                                width: 100%;
+                            }
+                            
+                            main p {
+                                text-align: center;
+                                padding: 50px 80px;
+                            }
+                            
+                            .noithat1 {
+                                background-color: #abb8c3;
+                                height: 800px;
+                                display: flex;
+                            }
+                            
+                            .noithat2 {
+                                background-color: #abb8c3;
+                                height: 800px;
+                                display: flex;
+                            }
+                            
+                            .noithat1 img {
+                                width: 1200px;
+                                height: 800px;
+                                float: left;
+                            }
+                            
+                            .noithat2 img {
+                                float: right;
+                                width: 1200px;
+                                height: 800px;
+                            }
+                            
+                            .noithat1 h2 {
+                                margin: 100px 60px;
+                                color: #555;
+                                font-size: 24px;
+                                font-weight: bold;
+                                text-align: center;
+                                margin-bottom: 15px;
+                            }
+                            
+                            .noithat1 p {
+                                font-size: 16px;
+                                line-height: 1.6;
+                                color: #555;
+                                text-align: justify;
+                                margin-bottom: 15px;
+                            }
+                            
+                            .noithat2 h2 {
+                                margin: 100px 60px;
+                                color: #555;
+                                font-size: 24px;
+                                font-weight: bold;
+                                text-align: center;
+                                margin-bottom: 15px;
+                            }
+                            
+                            .noithat2 p {
+                                font-size: 16px;
+                                line-height: 1.6;
+                                color: #555;
+                                text-align: justify;
+                                margin-bottom: 15px;
+                            }
+                            
+                            .noithat2 .noidung2 {
+                                float: left;
+                            }
+                            
+                            .noithat3 img {
+                                width: 100%;
+                            }
+                            
+                            .noithat3 p {
+                                color: #555;
+                                font-size: 16px;
+                                text-align: center;
+                                line-height: 1.6;
+                            }
+                            
+                            footer {
+                                background-color: #333;
+                                color: #fff;
+                                padding: 20px 0;
+                                font-family: Arial, sans-serif;
+                            }
+                            
+                            .footer-container {
+                                display: flex;
+                                justify-content: space-between;
+                                max-width: 1200px;
+                                margin: auto;
+                                padding: 0 20px;
+                            }
+                            
+                            .footer-section {
+                                width: 30%;
+                            }
+                            
+                            .footer-section h3 {
+                                font-size: 17px;
+                                margin-bottom: 10px;
+                                color: #f1c40f;
+                            }
+                            
+                            .footer-section p,
+                            .footer-section ul,
+                            .footer-section a {
+                                font-size: 13px;
+                                line-height: 1.6;
+                                color: #ddd;
+                            }
+                            
+                            .footer-section ul {
+                                list-style-type: none;
+                                padding: 0;
+                            }
+                            
+                            .footer-section li {
+                                margin-bottom: 5px;
+                            }
+                            
+                            .footer-section a {
+                                text-decoration: none;
+                                color: #ddd;
+                            }
+                            
+                            .footer-section a:hover {
+                                color: #f1c40f;
+                            }
+                            
+                            .social-media a {
+                                margin-right: 10px;
+                                display: inline-block;
+                                color: #ddd;
+                            }
+                            
+                            .social-media a:hover {
+                                color: #f1c40f;
+                            }
+                            
+                            .footer-bottom {
+                                text-align: center;
+                                padding: 15px 0;
+                                font-size: 0.8em;
+                                color: #999;
+                                border-top: 1px solid #444;
+                                margin-top: 20px;
+                            }
+                            
+                            .noithat4 {
+                                background-color: #abb8c3;
+                                height: 800px;
+                                display: flex;
+                            }
+                            
+                            .noidung4 h2 {
+                                margin: 100px 60px;
+                                color: #555;
+                                font-size: 24px;
+                                font-weight: bold;
+                                text-align: center;
+                                margin-bottom: 15px;
+                            }
+                            
+                            .noidung4 {
+                                color: #555;
+                                font-size: 16px;
+                                line-height: 1.6;
+                                float: right;
+                                background-color: #ddd;
+                                width: 700px;
+                            }
+                            
+                            .noithat4 video {
+                                background-color: #411902;
+                                height: 800px;
+                                width: 1202px;
+                            }
+                            
+                            .noidung5 {
+                                color: #555;
+                                font-size: 16px;
+                                line-height: 1.6;
+                                float: right;
+                                background-color: #ddd;
+                                text-align: justify;
+                            }
+                            
+                            .duan-1 {
+                                text-align: center;
+                                max-width: 45%;
+                            }
+                            
+                            .duan {
+                                display: flex;
+                                justify-content: center;
+                                gap: 50px;
+                                padding: 50px;
+                                background-color: #fff;
+                            }
+                            
+                            .duan img {
+                                width: 100%;
+                                border-radius: 8px;
+                            }
+                            
+                            .duan2 {
+                                background-color: white;
+                                margin-left: 330px;
+                                width: 150px;
+                                height: 40px;
+                                border: none;
+                                border-radius: 50px;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                border: 2px solid black;
+                                text-decoration: none
+                            }
+                            
+                            .duan a {
+                                color: #411902;
+                            }
+                            
+                            .noidung6 {
+                                color: #555;
+                                font-size: 16px;
+                                line-height: 1.6;
+                                background-color: #ddd;
+                            }
+                            
+                            .duan2:hover {
+                                background-color: black;
+                                color: white;
+                            }
+                            
+                            iframe {
+                                width: 1274px;
+                                height: 800px;
+                            }
