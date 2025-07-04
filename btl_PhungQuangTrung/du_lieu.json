@@ -1,0 +1,194 @@
+{
+    "Viết báo cáo môn CSDL": {
+        "Mã công việc": "CV002",
+        "Mô tả": "Soạn thảo chương 1 và 2",
+        "Ngày tạo": "25/06/2025",
+        "Hạn hoàn thành": "10/07/2025",
+        "Trạng thái": "Đang thực hiện",
+        "Người phụ trách": "Hà"
+    },
+    "Làm slide thuyết trình": {
+        "Mã công việc": "CV003",
+        "Mô tả": "Thiết kế slide chương 3",
+        "Ngày tạo": "26/06/2025",
+        "Hạn hoàn thành": "05/07/2025",
+        "Trạng thái": "Chưa bắt đầu",
+        "Người phụ trách": "Hùng"
+    },
+    "Kiểm thử ứng dụng Python": {
+        "Mã công việc": "CV004",
+        "Mô tả": "Thực hiện kiểm thử các chức năng chính",
+        "Ngày tạo": "20/06/2025",
+        "Hạn hoàn thành": "02/07/2025",
+        "Trạng thái": "Đang thực hiện",
+        "Người phụ trách": "Trung"
+    },
+    "Cập nhật dữ liệu người dùng": {
+        "Mã công việc": "CV005",
+        "Mô tả": "Nhập file người dùng mới",
+        "Ngày tạo": "15/06/2025",
+        "Hạn hoàn thành": "25/06/2025",
+        "Trạng thái": "Hoàn thành",
+        "Người phụ trách": "Quân"
+    },
+    "Thiết kế giao diện web": {
+        "Mã công việc": "CV006",
+        "Mô tả": "Dùng HTML, CSS và Bootstrap",
+        "Ngày tạo": "30/06/2025",
+        "Hạn hoàn thành": "15/07/2025",
+        "Trạng thái": "Chưa bắt đầu",
+        "Người phụ trách": "Linh"
+    },
+    "Kiểm tra tính năng tìm kiếm": {
+        "Mã công việc": "CV008",
+        "Mô tả": "Đảm bảo tìm kiếm hoạt động tốt với từ khóa sai",
+        "Ngày tạo": "22/06/2025",
+        "Hạn hoàn thành": "01/07/2025",
+        "Trạng thái": "Hoàn thành",
+        "Người phụ trách": "Ngọc"
+    },
+    "Bảo trì hệ thống cũ": {
+        "Mã công việc": "CV009",
+        "Mô tả": "Cập nhật thư viện và cấu hình",
+        "Ngày tạo": "18/06/2025",
+        "Hạn hoàn thành": "28/06/2025",
+        "Trạng thái": "Hoàn thành",
+        "Người phụ trách": "Bình"
+    },
+    "Thêm chức năng đăng nhập": {
+        "Mã công việc": "CV010",
+        "Mô tả": "Xác thực bằng mật khẩu",
+        "Ngày tạo": "21/06/2025",
+        "Hạn hoàn thành": "04/07/2025",
+        "Trạng thái": "Đang thực hiện",
+        "Người phụ trách": "Thảo"
+    },
+    "Tối ưu mã nguồn chính": {
+        "Mã công việc": "CV011",
+        "Mô tả": "Rút gọn các hàm xử lý",
+        "Ngày tạo": "19/06/2025",
+        "Hạn hoàn thành": "27/06/2025",
+        "Trạng thái": "Hoàn thành",
+        "Người phụ trách": "Minh"
+    },
+    "Đánh giá hiệu năng chương trình": {
+        "Mã công việc": "CV012",
+        "Mô tả": "Kiểm tra tốc độ xử lý dữ liệu lớn",
+        "Ngày tạo": "30/06/2025",
+        "Hạn hoàn thành": "07/07/2025",
+        "Trạng thái": "Chưa bắt đầu",
+        "Người phụ trách": "Vân"
+    },
+    "Thêm tính năng sắp xếp": {
+        "Mã công việc": "CV013",
+        "Mô tả": "Sắp xếp theo ngày tạo và trạng thái",
+        "Ngày tạo": "23/06/2025",
+        "Hạn hoàn thành": "01/07/2025",
+        "Trạng thái": "Đang thực hiện",
+        "Người phụ trách": "Phúc"
+    },
+    "Tạo file sao lưu dữ liệu": {
+        "Mã công việc": "CV014",
+        "Mô tả": "Lưu bản sao định kỳ",
+        "Ngày tạo": "17/06/2025",
+        "Hạn hoàn thành": "26/06/2025",
+        "Trạng thái": "Hoàn thành",
+        "Người phụ trách": "Vy"
+    },
+    "Viết hàm xóa toàn bộ công việc": {
+        "Mã công việc": "CV015",
+        "Mô tả": "Thêm xác nhận trước khi xóa",
+        "Ngày tạo": "28/06/2025",
+        "Hạn hoàn thành": "30/06/2025",
+        "Trạng thái": "Đang thực hiện",
+        "Người phụ trách": "Hưng"
+    },
+    "Tạo biểu đồ thống kê công việc": {
+        "Mã công việc": "CV016",
+        "Mô tả": "Hiển thị biểu đồ trạng thái",
+        "Ngày tạo": "26/06/2025",
+        "Hạn hoàn thành": "06/07/2025",
+        "Trạng thái": "Chưa bắt đầu",
+        "Người phụ trách": "Duyên"
+    },
+    "Cập nhật giao diện dòng lệnh": {
+        "Mã công việc": "CV017",
+        "Mô tả": "Thêm viền và cách dòng đẹp hơn",
+        "Ngày tạo": "25/06/2025",
+        "Hạn hoàn thành": "30/06/2025",
+        "Trạng thái": "Hoàn thành",
+        "Người phụ trách": "An"
+    },
+    "Thêm lựa chọn lọc công việc theo người phụ trách": {
+        "Mã công việc": "CV018",
+        "Mô tả": "Hiển thị danh sách công việc của từng người",
+        "Ngày tạo": "20/06/2025",
+        "Hạn hoàn thành": "01/07/2025",
+        "Trạng thái": "Đang thực hiện",
+        "Người phụ trách": "Khoa"
+    },
+    "Tạo README cho dự án": {
+        "Mã công việc": "CV019",
+        "Mô tả": "Hướng dẫn sử dụng và mục tiêu ứng dụng",
+        "Ngày tạo": "15/06/2025",
+        "Hạn hoàn thành": "25/06/2025",
+        "Trạng thái": "Hoàn thành",
+        "Người phụ trách": "Hiếu"
+    },
+    "Thêm kiểm tra lỗi định dạng ngày tháng": {
+        "Mã công việc": "CV020",
+        "Mô tả": "Sử dụng thư viện datetime",
+        "Ngày tạo": "24/06/2025",
+        "Hạn hoàn thành": "02/07/2025",
+        "Trạng thái": "Đang thực hiện",
+        "Người phụ trách": "Trang"
+    },
+    "Công việc 21": {
+        "Mã công việc": "CV021",
+        "Mô tả": "Mô tả công việc số 21",
+        "Ngày tạo": "01/07/2025",
+        "Hạn hoàn thành": "10/07/2025",
+        "Trạng thái": "Chưa bắt đầu",
+        "Người phụ trách": "Nguyễn Văn A"
+    },
+    "Công việc 22": {
+        "Mã công việc": "CV022",
+        "Mô tả": "Mô tả công việc số 22",
+        "Ngày tạo": "02/07/2025",
+        "Hạn hoàn thành": "11/07/2025",
+        "Trạng thái": "Chưa bắt đầu",
+        "Người phụ trách": "Nguyễn Văn B"
+    },
+    "Công việc 23": {
+        "Mã công việc": "CV023",
+        "Mô tả": "Mô tả công việc số 23",
+        "Ngày tạo": "03/07/2025",
+        "Hạn hoàn thành": "12/07/2025",
+        "Trạng thái": "Đang thực hiện",
+        "Người phụ trách": "Nguyễn Văn C"
+    },
+    "Công việc 24": {
+        "Mã công việc": "CV024",
+        "Mô tả": "Mô tả công việc số 24",
+        "Ngày tạo": "04/07/2025",
+        "Hạn hoàn thành": "13/07/2025",
+        "Trạng thái": "Hoàn thành",
+        "Người phụ trách": "Nguyễn Văn D"
+    },
+    "Công việc 25": {
+        "Mã công việc": "CV025",
+        "Mô tả": "Mô tả công việc số 25",
+        "Ngày tạo": "05/07/2025",
+        "Hạn hoàn thành": "14/07/2025",
+        "Trạng thái": "Chưa bắt đầu",
+        "Người phụ trách": "Nguyễn Văn E"
+    },
+    "ABCD": {
+        "Mã công việc": "CV007",
+        "Mô tả": "Soạn tài liệu PDF cho người dùng",
+        "Ngày tạo": "29/06/2025",
+        "Hạn hoàn thành": "10/07/2025",
+        "Trạng thái": "Chưa bắt đầu",
+        "Người phụ trách": "Nam"
+    }
+} 
